@@ -68,22 +68,6 @@ body.dark{
     font-size: 0.8rem;
 }
 
-.flags{
-    width: 75px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 150px;
-}
-
-.flags__item{
-    width: 35px;
-}
-
-.flags__img{
-    display: block;
-    cursor: pointer;
-}
 
 .colors{
     display:flex;
