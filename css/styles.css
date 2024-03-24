@@ -140,6 +140,7 @@ body.dark{
     min-width: 320px;
     border-radius: var(--border-radius);
     overflow: hidden;
+    border: 2px solid var(--primary-color);
 }
 
 .card__header{
